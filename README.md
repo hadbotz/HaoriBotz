@@ -96,9 +96,10 @@ Heroku Buildpack
  ​conn​.​logger​.​level​ ​=​ ​'​debug​' 
  ​``` 
   
+ ​ 
  ​--------- 
   
- ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) | [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)
+ ​ [![​Nurutomo​](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![​Ariffb​](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![​Kannachann​](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) 
  ​----|----|---- 
- ​[​Zivfurr](https://github.com/Colindonesia) | [​Yanzz](https://github.com/ariffb25) 
- ​ Record Sc | Partner
+ ​[​Nurutomo​](https://github.com/Nurutomo) | [​Ariffb​](https://github.com/ariffb25) | [​Kannachann​](https://github.com/Kannachann) 
+ ​ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2

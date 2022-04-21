@@ -77,7 +77,7 @@ Heroku Buildpack
   
  ​Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda ​**diblokir**​ jika digunakan terlalu sering) 
   
- ​*​ Administrasi Grup ​`add, kick, promote, demote` 
+ ​**Administrasi Grup** ​`add, kick, promote, demote` 
   
  ​`--img` 
   
@@ -110,3 +110,4 @@ Heroku Buildpack
 
   
  ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner`
+

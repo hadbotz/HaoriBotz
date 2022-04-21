@@ -10,18 +10,7 @@
 </p> 
 
 ​--------- 
- ​##​ ​```Connect With Me 📞```​ <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"> 
- ​  <a href="https://wa.me/6285158866902"> 
- ​    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" /> 
- ​  </a> ​&nbsp;&nbsp; 
- ​  <a href="https://www.tiktok.com/@Colindonesia"> 
- ​    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" /> 
- ​  </a> ​&nbsp;&nbsp; 
- ​  <a href="mailto: alvarelbadillah@gmail.com"> 
- ​    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" /> 
- ​  </a> ​&nbsp;&nbsp; 
- ​​--------- 
-  
+ 
  ​##​ ​```Whatsapp```​ <a href="https://wa.me/6285158866902"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" /> 
  ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282181815945)  
  ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628515866902)  
@@ -37,7 +26,7 @@
  ​apt install ffmpeg -y 
  ​apt install imagemagick -y 
  ​git clone https://github.com/Colindonesia/HaoriBotz
- ​cd​ RfkbotV1 
+ ​cd​ Haoribotz
  ​npm install 
  ​npm update 
  ​``` 

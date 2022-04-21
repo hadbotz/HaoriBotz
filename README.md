@@ -96,7 +96,7 @@ Heroku Buildpack
  ​conn​.​logger​.​level​ ​=​ ​'​debug​' 
  ​``` 
   
- ​--------- 
+
   
  ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia)         [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)
-  ​ Record Sc                         Partner
+  ​ Record Sc                                           Partner

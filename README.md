@@ -98,7 +98,5 @@ Heroku Buildpack
   
  ​--------- 
   
- ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) | [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)
- ​----|----|---- 
- ​[​Zivfurr](https://github.com/Colindonesia)          [​Yanzz](https://github.com/ariffb25) 
- ​ Record Sc                      Partner
+ ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia)         [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)
+  ​ Record Sc                         Partner

@@ -3,7 +3,7 @@
 
 </p>
 <h1 align="center">Script Ini Saya Record Ulang Dari Ramdani</h1>
-<p align="center"> <a href="https://Lexxy24.github.io"> <img src=="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Haori+botz; Script+By+AlyaXyz;Recode+By+Zivfurr;Give+Star+And+Forks+This+Repo+:D;Follow+My+Github" alt="UwU"> /> </a> </p>
+<p align="center"> <a href="https://Lexxy24.github.io"> <img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Haori+botz; Script+By+AlyaXyz;Recode+By+Zivfurr;Give+Star+And+Forks+This+Repo+:D;Follow+My+Github" alt="Lexxy Official" /> </a> </p>
 <p align="center">
 <a href="#"><img title="Shiro-Botz" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>

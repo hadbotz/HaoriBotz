@@ -11,12 +11,12 @@
 
 ​ 
   
- ​##​ ​Information  </p> 
+</p>  ​##​ ​Information  
   
- ​##​ ​bahasa Indonesia  </p> 
+ ​</p> ##​ ​bahasa Indonesia  
  ​</p> ❥ Haoribotz adalah bot yang menggunakan script dari AlyaXyz dan di recode oleh Zivfurr 
 </p>  ​❥​ Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.  
- ​##​ ​Language English  </p> 
+</p>  ​##​ ​Language English  
 </p>  ​❥​ Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr 
 </p>  ​❥​ If you find some kind of bug/error, please forgive me for a while  
    

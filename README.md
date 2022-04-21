@@ -69,17 +69,6 @@ Heroku Buildpack
  ​Accept: application/json 
  ​``` 
   
-POST 
-  
- ​```http 
- ​POST / 
- ​Content-Type: application/json 
-  
- ​{ 
- ​ data: {} 
- ​} 
- ​``` 
-  
  ​`--big-qr` 
   
  ​Jika qr unicode kecil tidak mendukung 

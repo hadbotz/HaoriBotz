@@ -14,11 +14,11 @@
  ​##​ ​Information  </p> 
   
  ​##​ ​bahasa Indonesia  </p> 
- ​❥ Haoribotz adalah bot yang menggunakan script dari AlyaXyz dan di recode oleh Zivfurr </p> 
- ​❥​ Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.  </p> 
+ ​</p> ❥ Haoribotz adalah bot yang menggunakan script dari AlyaXyz dan di recode oleh Zivfurr 
+</p>  ​❥​ Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.  
  ​##​ ​Language English  </p> 
- ​❥​ Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr </p> 
- ​❥​ If you find some kind of bug/error, please forgive me for a while  </p> 
+</p>  ​❥​ Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr 
+</p>  ​❥​ If you find some kind of bug/error, please forgive me for a while  
    
  ​##​ ​Bugs and Tester 
  ​*​ Jika kamu menemukan bug jangan lupa buka Issues 

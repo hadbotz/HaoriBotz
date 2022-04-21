@@ -62,14 +62,14 @@ Heroku Buildpack
  
  ​Server harus memiliki spesifikasi seperti ini 
   
- ​####​ ​GET 
+ ​GET 
   
  ​```http 
  ​GET / 
  ​Accept: application/json 
  ​``` 
   
- ​####​ ​POST 
+POST 
   
  ​```http 
  ​POST / 
@@ -80,29 +80,29 @@ Heroku Buildpack
  ​} 
  ​``` 
   
- ​###​ ​`--big-qr` 
+ ​`--big-qr` 
   
  ​Jika qr unicode kecil tidak mendukung 
   
- ​###​ ​`--restrict` 
+  ​`--restrict` 
   
  ​Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda ​**diblokir**​ jika digunakan terlalu sering) 
   
  ​*​ Administrasi Grup ​`add, kick, promote, demote` 
   
- ​###​ ​`--img` 
+ ​`--img` 
   
  ​Aktifkan pemeriksa gambar melalui terminal 
   
- ​###​ ​`--autoread` 
+ ​ ​`--autoread` 
   
  ​Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca 
   
- ​###​ ​`--nyimak` 
+  ​`--nyimak` 
   
  ​Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke database 
   
- ​###​ ​`--test` 
+ ​`--test` 
   
  ​**Development**​ Testing Mode 
   

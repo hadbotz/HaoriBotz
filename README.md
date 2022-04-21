@@ -17,10 +17,10 @@
 </p>  Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.  
 
 
-
+</p> 
 
  `Language English `
-</p> Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr 
+Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr 
 </p>  ​If you find some kind of bug/error, please forgive me for a while  
    
    

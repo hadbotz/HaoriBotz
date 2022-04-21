@@ -98,7 +98,7 @@ Heroku Buildpack
   
  ​--------- 
   
- ​ [![​Nurutomo​](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) | [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)
+ ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) | [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)
  ​----|----|---- 
- ​[​Zivfurr](https://github.com/Colindonesia) | [​Ariffb​](https://github.com/ariffb25) 
+ ​[​Zivfurr](https://github.com/Colindonesia) | [​Yanzz](https://github.com/ariffb25) 
  ​ Record Sc | Partner

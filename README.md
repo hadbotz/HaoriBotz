@@ -24,12 +24,14 @@ Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr
 </p>  ​If you find some kind of bug/error, please forgive me for a while  
    
    
-   
+   </p> 
    
  
 `Bugs and Tester `
  Jika kamu menemukan bug jangan lupa buka Issues 
  ​Info Lebih Lanjut, Chat 
+ 
+ </p> 
  
  ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282181815945)  
  ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628515866902)  

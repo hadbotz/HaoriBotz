@@ -98,7 +98,7 @@ Heroku Buildpack
   
  ​--------- 
   
- ​ [![​Nurutomo​](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![​Ariffb​](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![​Kannachann​](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) 
+ ​ [![​Nurutomo​](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) | [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)
  ​----|----|---- 
- ​[​Nurutomo​](https://github.com/Nurutomo) | [​Ariffb​](https://github.com/ariffb25) | [​Kannachann​](https://github.com/Kannachann) 
- ​ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2
+ ​[​Zivfurr](https://github.com/Colindonesia) | [​Ariffb​](https://github.com/ariffb25) 
+ ​ Record Sc | Partner

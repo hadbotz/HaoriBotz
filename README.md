@@ -19,7 +19,7 @@
 
 </p> 
 
- `Language English `
+ `Language English ` </p> 
 Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr 
 </p>  ​If you find some kind of bug/error, please forgive me for a while  
    

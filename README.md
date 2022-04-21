@@ -11,11 +11,10 @@
 
 ​--------- 
  
- ​##​ ​```Whatsapp```​ <a href="https://wa.me/6285158866902"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" /> 
  ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282181815945)  
  ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628515866902)  
  ​[![​GROUP OFFICIAL​](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ESeBcdKcHFm7BnyNiSZPvi)  
- ​--------- 
+
  
  ​##​ ​FOR TERMUX/UBUNTU/SSH USER 
   
@@ -30,7 +29,7 @@
  ​npm install 
  ​npm update 
  ​``` 
- ​---------
+
 
 Heroku Buildpack
 ```bash 

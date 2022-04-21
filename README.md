@@ -9,15 +9,7 @@
 <p align="center">
 </p> 
 
- 
- ​<a href="https://github.com/Kannachann/kanna-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kannachann/kanna-wabot?label=Forks&color=blue&style=flat-square"></a> 
- ​<a href="https://github.com/Kannachann/kanna-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kannachann/kanna-wabot?label=Watchers&color=green&style=flat-square"></a> 
- ​<a href="https://github.com/Kannachann/kanna-wabot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kannachann/kanna-wabot?label=Stars&color=yellow&style=flat-square"></a> 
- ​<a href="https://github.com/Kannachann/kanna-wabot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Kannachann/kanna-wabot?label=Contributors&color=blue&style=flat-square"></a> 
- ​<a href="https://github.com/Kannachann/kanna-wabot/issues"><img title="Issues" src="https://img.shields.io/github/issues/Kannachann/kanna-wabot?label=Issues&color=success&style=flat-square"></a> 
- ​<a href="https://github.com/Kannachann/kanna-wabot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Kannachann/kanna-wabot?label=Issues&color=red&style=flat-square"></a> 
- ​<a href="https://github.com/Kannachann/kanna-wabot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Kannachann/kanna-wabot?label=PullRequest&color=success&style=flat-square"></a> 
- ​<a href="https://github.com/Kannachann/kanna-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Kannachann/kanna-wabot?label=PullRequest&color=red&style=flat-square"></a>
+​------------------​------------------​------
  
  ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282181815945)  
  ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628515866902)  
@@ -45,3 +37,68 @@ Heroku Buildpack
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest 
 > https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
+ 
+ ​Server harus memiliki spesifikasi seperti ini 
+  
+ ​####​ ​GET 
+  
+ ​```http 
+ ​GET / 
+ ​Accept: application/json 
+ ​``` 
+  
+ ​####​ ​POST 
+  
+ ​```http 
+ ​POST / 
+ ​Content-Type: application/json 
+  
+ ​{ 
+ ​ data: {} 
+ ​} 
+ ​``` 
+  
+ ​###​ ​`--big-qr` 
+  
+ ​Jika qr unicode kecil tidak mendukung 
+  
+ ​###​ ​`--restrict` 
+  
+ ​Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda ​**diblokir**​ jika digunakan terlalu sering) 
+  
+ ​*​ Administrasi Grup ​`add, kick, promote, demote` 
+  
+ ​###​ ​`--img` 
+  
+ ​Aktifkan pemeriksa gambar melalui terminal 
+  
+ ​###​ ​`--autoread` 
+  
+ ​Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca 
+  
+ ​###​ ​`--nyimak` 
+  
+ ​Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke database 
+  
+ ​###​ ​`--test` 
+  
+ ​**Development**​ Testing Mode 
+  
+ ​###​ ​`--trace` 
+  
+ ​```js 
+ ​conn​.​logger​.​level​ ​=​ ​'​trace​' 
+ ​``` 
+  
+ ​###​ ​`--debug` 
+  
+ ​```js 
+ ​conn​.​logger​.​level​ ​=​ ​'​debug​' 
+ ​``` 
+  
+ ​--------- 
+  
+ ​ [![​Nurutomo​](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![​Ariffb​](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![​Kannachann​](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann) 
+ ​----|----|---- 
+ ​[​Nurutomo​](https://github.com/Nurutomo) | [​Ariffb​](https://github.com/ariffb25) | [​Kannachann​](https://github.com/Kannachann) 
+ ​ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2

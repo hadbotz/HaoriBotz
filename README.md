@@ -1,143 +1,113 @@
- 
- ​<p align="center"> 
- ​<img src="https://telegra.ph/file/a61c2c3d5ea2147ff990e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;"> 
- ​</p> 
-  
- ​</p> 
- ​<p align="center"> 
- ​<a href="#"><img title="RAMDANI BOTZ VERSI 17.0.0" src="https://img.shields.io/badge/Ramdani Botz Versi 17.0.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
- ​</p> 
- ​<p align="center"> 
- ​<a href="https://github.com/Ramdaniofficial"><img title="Author" src="https://img.shields.io/badge/Author-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a> 
- ​<a href="https://github.com/RamdaniOfficial/v17"><img title="Recode" src="https://img.shields.io/badge/Recode-Ramdani Official-red.svg?style=for-the-badge&logo=github"></a> 
- ​</p> 
- ​<p align="center"> 
- ​<a href="https://github.com/Ramdaniofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramdani Official?color=red&style=flat-square"></a> 
- ​<a href="https://github.com/Ramdaniofficial/v17/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramdani Official/v17?color=blue&style=flat-square"></a> 
- ​<a href="https://github.com/Ramdaniofficial/v17/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramdani Official/v17?color=red&style=flat-square"></a> 
- ​<a href="https://github.com/Ramdaniofficial/v17/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramdani Official/v17?label=Watchers&color=blue&style=flat-square"></a> 
- ​<a href="https://github.com/Ramdaniofficial/v17"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a> 
- ​<a href="https://github.com/Ramdaniofficial/v17/"><img title="Size" src="https://img.shields.io/github/repo-size/Ramdani Official/v17?style=flat-square&color=green"></a> 
- ​<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamdani Official%2Fv17&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a> 
- ​<a href="https://github.com/Ramdaniofficial/v17/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>​&nbsp;&nbsp; 
- ​</p> 
-  
- ​<p align="center"> 
- ​  <a href="https://github.com/Ramdaniofficial/v17#requirements">Requirements</a> • 
- ​  <a href="https://github.com/Ramdaniofficial/v17#instalasi">Installation</a> • 
- ​  <a href="https://github.com/Ramdaniofficial/v17#thanks-to">Thanks to</a> • 
- ​  <a href="https://github.com/Ramdaniofficial/v17#Official-Group"> Official Group Bot</a> • 
- ​  <a href="https://github.com/Ramdaniofficial/v17#donate">Donate</a> 
- ​</p> 
- ​</div> 
-  
-  
- ​--- 
+<p align="center">
+<img src="https://telegra.ph/file/b4237824e8fd66c4aeb84.png" alt="RadBot" width="200"/>
+
+</p>
+<p align="center"> <a href="https://Lexxy24.github.io"> <img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Haori+botz; Script+By+AlyaXyz;Recode+By+Zivfurr;Give+Star+And+Forks+This+Repo+:D;Follow+My+Github" alt="Lexxy Official" /> </a> </p>
+<p align="center">
+<a href="#"><img title="Shiro-Botz" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+</p> 
+
+​ 
   
  ​##​ ​Information 
  ​##​ ​bahasa Indonesia 
- ​>​ Ramdani Botz V17 adalah bot yang di ciptakan oleh Ramdani Official. 
+ ​>​ Haoribotz adalah bot yang menggunakan script dari AlyaXyz dan di recode oleh Zivfurr
  ​>​ Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara. 
  ​##​ ​Language English 
- ​>​ Ramdani Botz V17 is a bot created by Ramdani Official 
+ ​>​ Haoribotz is a bot that uses a script from AlyaXyz and is recoded by Zivfurr
  ​>​ If you find some kind of bug/error, please forgive me for a while 
   
  ​##​ ​Bugs and Tester 
  ​*​ Jika kamu menemukan bug jangan lupa buka Issues 
- ​*​ Info Lebih Lanjut, Chat [​owner-alpha​](https://wa.me/62887435047326) 
-  
- ​#​ ​Requirements 
- ​*​ [​Node.js​](https://nodejs.org/en/) 
- ​*​ [​Git​](https://git-scm.com/downloads) 
- ​*​ [​FFmpeg​](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command) 
-  
- ​##​ ​Intalasi 
- ​##​ ​For termux 
-  
- ​``` 
- ​> apt update && apt upgrade 
- ​> pkg install bash 
- ​> pkg install git 
- ​> pkg install nodejs 
- ​> pkg install ffmpeg 
- ​> pkg install imagemagick 
- ​> pkg install libwebp 
- ​> pkg install yarn 
- ​> cd /sdcard/v17 
- ​> yarn 
- ​> npm start 
- ​``` 
-  
- ​##​ ​Heroku buildpack 
-  
- ​```FFMPEG :``` 
- ​https://github.com/Ramdaniofficial/heroku-buildpack-ffmpeg-latest 
-  
- ​```WEBP :``` 
- ​https://github.com/Ramdaniofficial/heroku-buildpack-webp-binaries.git 
-  
- ​--------- 
-  
- ​## For windows/RDP 
-  
- ​* Download And Install Git [`Click Here`](https://git-scm.com/downloads) 
- ​* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download) 
- ​* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
- ​* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
-  
-  
-  
- ​## Edit file 
- ​- Change ownerNumber on [this section](https://github.com/Ramdaniofficial/av17/blob/7a7ebe69cf44686d8a577f617b38b5d299ffefcc/config.json#L2) 
- ​- Change botName on [this section](https://github.com/Ramdaniofficial/v17/blob/7a7ebe69cf44686d8a577f617b38b5d299ffefcc/config.json#L3) 
- ​- You can edit list and display menu or donate on [this section](https://github.com/Ramdaniofficial/v17/blob/main/help/ind.js) 
- ​- You can add fiture on [this section](https://github.com/Ramdaniofficial/v17/tree/main/message) 
-  
-  
- ​## Installing the FFmpeg for Windows 
- ​* Unduh salah satu versi FFmpeg yang tersedia dengan mengklik [di sini](https://www.gyan.dev/ffmpeg/builds/). 
- ​* Extract file ke `C:\` path. 
- ​* Ganti nama folder yang telah di-extract menjadi `ffmpeg`. 
- ​* Run Command Prompt as Administrator. 
- ​* Jalankan perintah berikut:: 
- ​```cmd 
- ​> setx /m PATH "C:\ffmpeg\bin;%PATH%" 
- ​``` 
- ​Jika berhasil, akan memberikanmu pesan seperti: ​`SUCCESS: specified value was saved`​. 
- ​*​ Sekarang setelah Anda menginstal FFmpeg, verifikasi bahwa itu berhasil dengan menjalankan perintah ini untuk melihat versi: 
- ​```cmd 
- ​> ffmpeg -version 
- ​``` 
-  
- ​##​ ​Donate 
- ​-​ [​Saweria​](https://saweria.co/Ramdaniofficial) 
- ​-​ [​Linktree​](https://linktr.ee/Ramdaniofficial) 
- ​-​ [​Dana​](089512545999) 
- ​-​ [​Ovo​](089512545999) 
- ​-​ [​Gopay​](089512545999) 
-  
- ​#​ ​Official Group 
- ​-​ [​Group 1​](https://chat.whatsapp.com/Gq71DUTFOhRE9efPYyobYu) 
- ​-​ [​Group 2​](https://chat.whatsapp.com/I4qx9yNFPXP6cGP7Q1zBhq) 
- ​-​ [​Group 3​](https://chat.whatsapp.com/IbGdZllhP0Q92BJrOwvOLK) 
- ​-​ [​Group coding bersama​](https://chat.whatsapp.com/FR0FmwpBEmQ3HuyF2SIdVQ) 
- ​-​ [​Group tes bot​](https://chat.whatsapp.com/L8ucMoUQUTt3gKzSvpttbU) 
- ​-​ [​Group murid bot​](https://chat.whatsapp.com/IyNVUbMxyoSG0Sw0oe6T62) 
- ​-​ [​Group saling subscribe​](https://chat.whatsapp.com/Dx8VCkqvDSRD5yXXxQ3LK3) 
-  
-  
- ​#​ ​Thanks to 
- ​<a href="https://github.com/Ramdaniofficial"><img src="https://github.com/Ramdaniofficial.png?size=100" width="100" height="100"></a> | [![​NURUTOMO​](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)  
- ​---|--- 
- ​[​Ramdani Official​](https://github.com/Ramdaniofficial)  | [​Nurutomo​](https://github.com/Nurutomo) 
- ​Developer Ramdani bot v17 | Constributor | 
- ​<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![​FATIH​](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho)  
- ​[​Mhankbarbar​](https://github.com/MhankBarBar)  | [​Fatih A.​](https://github.com/fatiharridho) 
- ​Constributor | For Help | 
- ​<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![​RASHID​](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28)  
- ​[​Ferdiz​](https://github.com/FERDIZ-afk)  | [​Rashid​](https://github.com/rashidsiregar28) 
- ​For Help | Owner Chikabot | 
- ​<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![​FAJAR​](http://github.com/Ramdani Official.png?size=100)](http://github.com/Ramdani Official)  
- ​[​Adiwajshing​](https://github.com/adiwajshing) | [​Ramdani Official​](https://Ramdani Official.github.io) 
- ​Owner of Baileys | Owner of Api Ramdani Botz | 
+ ​*​ Info Lebih Lanjut, Chat [​owner-alpha​](https://wa.me/628158866902)
  
+ ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282181815945)  
+ ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628515866902)  
+ ​[![​GROUP OFFICIAL​](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ESeBcdKcHFm7BnyNiSZPvi)  
+
+ 
+ ​FOR TERMUX/UBUNTU/SSH USER 
+  
+ ​```bash 
+ ​apt update ​&&​ apt upgrade 
+ ​apt install git -y 
+ ​apt install nodejs -y 
+ ​apt install ffmpeg -y 
+ ​apt install imagemagick -y 
+ ​git clone https://github.com/Colindonesia/HaoriBotz
+ ​cd​ Haoribotz
+ ​npm install 
+ ​npm update 
+ ​``` 
+
+
+Heroku Buildpack
+```bash 
+> heroku/nodejs 
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest 
+> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+```
+ 
+ ​Server harus memiliki spesifikasi seperti ini 
+  
+ ​####​ ​GET 
+  
+ ​```http 
+ ​GET / 
+ ​Accept: application/json 
+ ​``` 
+  
+ ​####​ ​POST 
+  
+ ​```http 
+ ​POST / 
+ ​Content-Type: application/json 
+  
+ ​{ 
+ ​ data: {} 
+ ​} 
+ ​``` 
+  
+ ​###​ ​`--big-qr` 
+  
+ ​Jika qr unicode kecil tidak mendukung 
+  
+ ​###​ ​`--restrict` 
+  
+ ​Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda ​**diblokir**​ jika digunakan terlalu sering) 
+  
+ ​*​ Administrasi Grup ​`add, kick, promote, demote` 
+  
+ ​###​ ​`--img` 
+  
+ ​Aktifkan pemeriksa gambar melalui terminal 
+  
+ ​###​ ​`--autoread` 
+  
+ ​Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca 
+  
+ ​###​ ​`--nyimak` 
+  
+ ​Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke database 
+  
+ ​###​ ​`--test` 
+  
+ ​**Development**​ Testing Mode 
+  
+ ​###​ ​`--trace` 
+  
+ ​```js 
+ ​conn​.​logger​.​level​ ​=​ ​'​trace​' 
+ ​``` 
+  
+ ​###​ ​`--debug` 
+  
+ ​```js 
+ ​conn​.​logger​.​level​ ​=​ ​'​debug​' 
+ ​``` 
+  
+
+  
+ ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner`
